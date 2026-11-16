@@ -1,3 +1,5 @@
+-- skid it if u want idc
+
 local CONFIG = {
 	UIUrl        = "https://raw.githubusercontent.com/csgo1compte-cloud/RayVoid/refs/heads/main/AirFlow",
 	UIFile       = "Airflow.lua",
